@@ -1,4 +1,4 @@
-// Adjacency list representation....
+// depth first search implmented
 #include <bits/stdc++.h>
 using namespace std;
 
