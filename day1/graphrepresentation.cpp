@@ -1,4 +1,3 @@
-// Adjacency list representation....
 #include <bits/stdc++.h>
 using namespace std;
 
